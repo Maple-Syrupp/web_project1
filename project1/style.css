@@ -162,3 +162,47 @@ section.down {
 #chart_div {
   flex: 1 1 200px;
 }
+
+div.china h1 {
+  padding: 1rem;
+  color: green;
+}
+
+div.china p {
+  padding: 1rem;
+}
+
+div.china table {
+  margin-left: 1rem;
+  border-collapse: collapse;
+}
+
+div.china th {
+  border: 1px solid white;
+  background-color: aqua;
+}
+
+div.china tr {
+  padding: 1rem;
+}
+
+div.china td {
+  text-align: left;
+}
+
+div.taiwan {
+  padding: 0.5rem;
+}
+
+div.taiwan h1 {
+  color: green;
+  padding: 0.5rem;
+}
+
+div.taiwan p {
+  padding: 1rem;
+}
+
+div.taiwan li {
+  margin-left: 1rem;
+}
